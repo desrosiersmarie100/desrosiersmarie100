@@ -1,4 +1,4 @@
-# Hi, I'm Marie 👋
+# Hi, I'm Alice 👋
 
 🎓 **Mechanical & Aerospace Engineering Student**  
 I'm passionate about the intersection of engineering, cognitive science, and artificial intelligence. I enjoy exploring how technology can help us better understand and solve complex problems.
