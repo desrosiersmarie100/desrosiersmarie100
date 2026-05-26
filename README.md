@@ -19,7 +19,7 @@ I'm passionate about the intersection of engineering, cognitive science, and art
 
 ---
 
-> “The important thing is not to stop questioning.” — Albert Einstein
+> “The important thing is not to stop questioning.” - Albert Einstein
 
 <!--
 Want to connect? Add your social links here!
